@@ -20,7 +20,7 @@ body{
     text-align: center;
 }
 .apple{
-    width: 55%;
+    width: 50%;
     background-image: url(custom.css);
     background-repeat: no-repeat;
     float: left;
@@ -67,4 +67,5 @@ body{
     font-size: 50px;
     display: inline-block;
     vertical-align: middle;
+    color: #000000;
 }
