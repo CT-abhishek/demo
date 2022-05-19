@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/GB-300
 /* @import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap'); */
 
 body{
@@ -23,11 +19,7 @@ body{
     text-align: center;
 }
 .apple{
-<<<<<<< HEAD
-    width: 55%;
-=======
     width: 50%;
->>>>>>> refs/remotes/origin/GB-300
     background-image: url(custom.css);
     background-repeat: no-repeat;
     float: left;
@@ -74,9 +66,5 @@ body{
     font-size: 50px;
     display: inline-block;
     vertical-align: middle;
-<<<<<<< HEAD
-}
-=======
     color: #000000;
 }
->>>>>>> refs/remotes/origin/GB-300
